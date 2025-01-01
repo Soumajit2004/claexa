@@ -1,5 +1,5 @@
 {
-  "name": "web-client",
+  "name": "@app/web",
   "private": true,
   "type": "module",
   "scripts": {
