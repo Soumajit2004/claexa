@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx build @claexa/api",
+    "startTime": "2025-01-04T02:08:02.287Z",
+    "endTime": "2025-01-04T02:08:04.476Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "@claexa/api:build",
+      "target": "build",
+      "projectName": "@claexa/api",
+      "hash": "18321028575581233500",
+      "startTime": "2025-01-04T02:08:02.296Z",
+      "endTime": "2025-01-04T02:08:04.476Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

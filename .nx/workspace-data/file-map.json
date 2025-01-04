@@ -1,0 +1,394 @@
+{
+  "version": "6.0",
+  "nxVersion": "20.3.0",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "784493820935664022"
+      },
+      {
+        "file": ".idea/modules.xml",
+        "hash": "124375886734983322"
+      },
+      {
+        "file": "nx.json",
+        "hash": "14709165113186608530"
+      },
+      {
+        "file": ".idea/vcs.xml",
+        "hash": "14721619479974801327"
+      },
+      {
+        "file": ".idea/.gitignore",
+        "hash": "10286036308014790964"
+      },
+      {
+        "file": ".idea/claexa.iml",
+        "hash": "2091662290190038625"
+      },
+      {
+        "file": ".idea/codeStyles/codeStyleConfig.xml",
+        "hash": "4690022301721055948"
+      },
+      {
+        "file": "package.json",
+        "hash": "17214251872518436920"
+      },
+      {
+        "file": "pnpm-workspace.yaml",
+        "hash": "11805071067713496448"
+      },
+      {
+        "file": ".idea/codeStyles/Project.xml",
+        "hash": "12578963507284936332"
+      },
+      {
+        "file": ".idea/inspectionProfiles/Project_Default.xml",
+        "hash": "16926884385482206514"
+      }
+    ],
+    "projectFileMap": {
+      "@claexa/api": [
+        {
+          "file": "apps/api/.eslintrc.js",
+          "hash": "7461846271827386206"
+        },
+        {
+          "file": "apps/api/.prettierrc",
+          "hash": "4808572120966128913"
+        },
+        {
+          "file": "apps/api/README.md",
+          "hash": "17910034448946616894"
+        },
+        {
+          "file": "apps/api/dist/app.module.d.ts",
+          "hash": "10127694934788833983"
+        },
+        {
+          "file": "apps/api/dist/app.module.js",
+          "hash": "13384391473206879291"
+        },
+        {
+          "file": "apps/api/dist/app.module.js.map",
+          "hash": "6392930158550593021"
+        },
+        {
+          "file": "apps/api/dist/auth/auth.controller.d.ts",
+          "hash": "1906454951839855325"
+        },
+        {
+          "file": "apps/api/dist/auth/auth.controller.js",
+          "hash": "16004998494161545026"
+        },
+        {
+          "file": "apps/api/dist/auth/auth.controller.js.map",
+          "hash": "6369091355933750557"
+        },
+        {
+          "file": "apps/api/dist/auth/auth.module.d.ts",
+          "hash": "11647569113032610640"
+        },
+        {
+          "file": "apps/api/dist/auth/auth.module.js",
+          "hash": "17516022660097307877"
+        },
+        {
+          "file": "apps/api/dist/auth/auth.module.js.map",
+          "hash": "11561271819218862293"
+        },
+        {
+          "file": "apps/api/dist/auth/auth.service.d.ts",
+          "hash": "17155384136017102542"
+        },
+        {
+          "file": "apps/api/dist/auth/auth.service.js",
+          "hash": "14598440878254808663"
+        },
+        {
+          "file": "apps/api/dist/auth/auth.service.js.map",
+          "hash": "6764534485669304690"
+        },
+        {
+          "file": "apps/api/dist/common/common.module.d.ts",
+          "hash": "13566824233160817873"
+        },
+        {
+          "file": "apps/api/dist/common/common.module.js",
+          "hash": "13977187994682554002"
+        },
+        {
+          "file": "apps/api/dist/common/common.module.js.map",
+          "hash": "3902661559753164480"
+        },
+        {
+          "file": "apps/api/dist/common/config/config.module.d.ts",
+          "hash": "13795994271203822004"
+        },
+        {
+          "file": "apps/api/dist/common/config/config.module.js",
+          "hash": "7074289630021338656"
+        },
+        {
+          "file": "apps/api/dist/common/config/config.module.js.map",
+          "hash": "13044356602729862762"
+        },
+        {
+          "file": "apps/api/dist/common/database/database.module.d.ts",
+          "hash": "2401108573292203836"
+        },
+        {
+          "file": "apps/api/dist/common/database/database.module.js",
+          "hash": "12748776617420485013"
+        },
+        {
+          "file": "apps/api/dist/common/database/database.module.js.map",
+          "hash": "6307100487658826807"
+        },
+        {
+          "file": "apps/api/dist/common/swagger/swagger.module.d.ts",
+          "hash": "5215346875155777496"
+        },
+        {
+          "file": "apps/api/dist/common/swagger/swagger.module.js",
+          "hash": "3064627164875521566"
+        },
+        {
+          "file": "apps/api/dist/common/swagger/swagger.module.js.map",
+          "hash": "4396568443410129661"
+        },
+        {
+          "file": "apps/api/dist/main.d.ts",
+          "hash": "4595979742548113990"
+        },
+        {
+          "file": "apps/api/dist/main.js",
+          "hash": "17549465681500376370"
+        },
+        {
+          "file": "apps/api/dist/main.js.map",
+          "hash": "9659042234422149570"
+        },
+        {
+          "file": "apps/api/dist/tsconfig.build.tsbuildinfo",
+          "hash": "1414389892738534491"
+        },
+        {
+          "file": "apps/api/dist/user/user.controller.d.ts",
+          "hash": "11807160010456364139"
+        },
+        {
+          "file": "apps/api/dist/user/user.controller.js",
+          "hash": "710658116551728024"
+        },
+        {
+          "file": "apps/api/dist/user/user.controller.js.map",
+          "hash": "2353705376966690616"
+        },
+        {
+          "file": "apps/api/dist/user/user.module.d.ts",
+          "hash": "10409678125190016508"
+        },
+        {
+          "file": "apps/api/dist/user/user.module.js",
+          "hash": "608083090784499322"
+        },
+        {
+          "file": "apps/api/dist/user/user.module.js.map",
+          "hash": "13554353690243178762"
+        },
+        {
+          "file": "apps/api/dist/user/user.service.d.ts",
+          "hash": "6274916782241483641"
+        },
+        {
+          "file": "apps/api/dist/user/user.service.js",
+          "hash": "8623567772914931430"
+        },
+        {
+          "file": "apps/api/dist/user/user.service.js.map",
+          "hash": "15915741279886723145"
+        },
+        {
+          "file": "apps/api/nest-cli.json",
+          "hash": "789240945379598733"
+        },
+        {
+          "file": "apps/api/package.json",
+          "hash": "16859754269774715546"
+        },
+        {
+          "file": "apps/api/src/app.module.ts",
+          "hash": "4558918622144057830"
+        },
+        {
+          "file": "apps/api/src/auth/auth.controller.spec.ts",
+          "hash": "14239920491639202077"
+        },
+        {
+          "file": "apps/api/src/auth/auth.controller.ts",
+          "hash": "2449016659303535538"
+        },
+        {
+          "file": "apps/api/src/auth/auth.module.ts",
+          "hash": "6804137706811450007"
+        },
+        {
+          "file": "apps/api/src/auth/auth.service.spec.ts",
+          "hash": "5442871165268080463"
+        },
+        {
+          "file": "apps/api/src/auth/auth.service.ts",
+          "hash": "5011420729271228617"
+        },
+        {
+          "file": "apps/api/src/common/common.module.ts",
+          "hash": "15532782997110969062"
+        },
+        {
+          "file": "apps/api/src/common/config/config.module.ts",
+          "hash": "2611425295998393417"
+        },
+        {
+          "file": "apps/api/src/common/database/database.module.ts",
+          "hash": "17250084618133956887"
+        },
+        {
+          "file": "apps/api/src/common/swagger/swagger.module.ts",
+          "hash": "1899201245373133925"
+        },
+        {
+          "file": "apps/api/src/main.ts",
+          "hash": "6783086878492621953"
+        },
+        {
+          "file": "apps/api/src/user/user.controller.spec.ts",
+          "hash": "13416544024699613850"
+        },
+        {
+          "file": "apps/api/src/user/user.controller.ts",
+          "hash": "11040470045774570933"
+        },
+        {
+          "file": "apps/api/src/user/user.module.ts",
+          "hash": "2039016334555735288"
+        },
+        {
+          "file": "apps/api/src/user/user.service.spec.ts",
+          "hash": "4841831373564007228"
+        },
+        {
+          "file": "apps/api/src/user/user.service.ts",
+          "hash": "8697835503725256323"
+        },
+        {
+          "file": "apps/api/test/app.e2e-spec.ts",
+          "hash": "15142680097789702029"
+        },
+        {
+          "file": "apps/api/test/jest-e2e.json",
+          "hash": "7570273541430074424"
+        },
+        {
+          "file": "apps/api/tsconfig.build.json",
+          "hash": "276845246908739715"
+        },
+        {
+          "file": "apps/api/tsconfig.json",
+          "hash": "1876265833229380624"
+        }
+      ],
+      "@claexa/web": [
+        {
+          "file": "apps/web/.dockerignore",
+          "hash": "3154946020547382264"
+        },
+        {
+          "file": "apps/web/.gitignore",
+          "hash": "8657133211197324674"
+        },
+        {
+          "file": "apps/web/Dockerfile",
+          "hash": "13050733377553641400"
+        },
+        {
+          "file": "apps/web/Dockerfile.bun",
+          "hash": "5757640197905027201"
+        },
+        {
+          "file": "apps/web/Dockerfile.pnpm",
+          "hash": "7826157406035272807"
+        },
+        {
+          "file": "apps/web/README.md",
+          "hash": "12328888106816686107"
+        },
+        {
+          "file": "apps/web/app/app.css",
+          "hash": "1159213984296909414"
+        },
+        {
+          "file": "apps/web/app/root.tsx",
+          "hash": "3310863138178473388"
+        },
+        {
+          "file": "apps/web/app/routes.ts",
+          "hash": "8734990311370856548"
+        },
+        {
+          "file": "apps/web/app/routes/home.tsx",
+          "hash": "9923817358460804410"
+        },
+        {
+          "file": "apps/web/app/welcome/logo-dark.svg",
+          "hash": "7502308573207945001"
+        },
+        {
+          "file": "apps/web/app/welcome/logo-light.svg",
+          "hash": "15425700660273573781"
+        },
+        {
+          "file": "apps/web/app/welcome/welcome.tsx",
+          "hash": "8299726154608189112"
+        },
+        {
+          "file": "apps/web/package.json",
+          "hash": "15082323014767044483"
+        },
+        {
+          "file": "apps/web/public/favicon.ico",
+          "hash": "4262445438011821815"
+        },
+        {
+          "file": "apps/web/react-router.config.ts",
+          "hash": "18232334749430676952"
+        },
+        {
+          "file": "apps/web/tailwind.config.ts",
+          "hash": "1751341758986263440"
+        },
+        {
+          "file": "apps/web/tsconfig.json",
+          "hash": "6510785847667570402"
+        },
+        {
+          "file": "apps/web/vite.config.ts",
+          "hash": "14651626870213241311"
+        }
+      ],
+      "@claexa/types": [
+        {
+          "file": "packages/types/package.json",
+          "hash": "6903909857506092707"
+        },
+        {
+          "file": "packages/types/src/index.ts",
+          "hash": "3244421341483603138"
+        }
+      ]
+    }
+  }
+}
